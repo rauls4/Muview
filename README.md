@@ -38,7 +38,7 @@ The app lands in `build/Build/Products/Release/Muview.app`. Copy it to `/Applica
 The icon is drawn by a script; to regenerate the master image:
 
 ```bash
-swift Tools/make-icon.swift icon.png
+swift Tools/make-icon.swift app icon.png
 ```
 
 ## Layout

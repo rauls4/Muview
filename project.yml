@@ -39,10 +39,12 @@ targets:
           - CFBundleTypeName: Markdown Document
             CFBundleTypeRole: Viewer
             LSHandlerRank: Alternate
+            CFBundleTypeIconFile: Document
             LSItemContentTypes: [net.daringfireball.markdown]
           - CFBundleTypeName: Markup Document
             CFBundleTypeRole: Viewer
             LSHandlerRank: Alternate
+            CFBundleTypeIconFile: Document
             LSItemContentTypes:
               - public.html
               - public.xml
